@@ -1,5 +1,5 @@
 {
-  "name": "@autots/floor-navigation",
+  "name": "@autots/floornav",
   "version": "0.0.1",
   "description": "a floor navigation component based on typescript and vanilla js",
   "main": "dist/main.js",
@@ -38,10 +38,10 @@
     "typescript": "^3.9.3"
   },
   "author": "liihom",
-  "homepage": "",
+  "homepage": "https://github.com/liihom/floor-navigation",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/liihom/floor-navigation"
   },
   "license": "MIT"
 }

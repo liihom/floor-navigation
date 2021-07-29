@@ -1,4 +1,4 @@
-# @autots/floor-navigation
+# @autots/floornav
 
 > Thanks to [Floornav](https://github.com/athm-fe/floornav)
 
@@ -11,13 +11,13 @@ A floor navigation component based on typescript and vanilla js.
 ## Installing
 
 ```
-$ npm install @autots/floor-navigation -S
+$ npm install @autots/floornav -S
 ```
 
 Using yarn:
 
 ```
-$ yarn add @autots/floor-navigation
+$ yarn add @autots/floornav
 ```
 
 ## Example
@@ -49,7 +49,7 @@ $ yarn add @autots/floor-navigation
 ### import as a module
 
 ```
-import Floornav from '@autots/floor-navigation';
+import Floornav from '@autots/floornav';
 
 // 1. The simplest way
 new Floornav();
@@ -58,7 +58,7 @@ new Floornav();
 ### import as a lib
 
 ```
-<script src="dist/floor-navigation.browser.min.js"></script>
+<script src="dist/floornav.browser.min.js"></script>
 
 <script>
   var myFloornav = new AutoTs.Floornav(id, config);
