@@ -1,6 +1,6 @@
 {
   "name": "@autots/floornav",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "a floor navigation component based on typescript and vanilla js",
   "main": "dist/main.js",
   "scripts": {
